@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ari-builds.github.io/fresh-lines-painting-site/sitemap.xml

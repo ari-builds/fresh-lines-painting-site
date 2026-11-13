@@ -1,0 +1,10 @@
+# Fresh Lines Painting LLC
+Interior and exterior painting, cabinet refinishing and commercial repainting in Irmo, Columbia and the South Carolina Midlands.
+
+## Pages
+- Home: https://ari-builds.github.io/fresh-lines-painting-site/
+- Services: https://ari-builds.github.io/fresh-lines-painting-site/services/
+- Work: https://ari-builds.github.io/fresh-lines-painting-site/work/
+- Process: https://ari-builds.github.io/fresh-lines-painting-site/process/
+- About: https://ari-builds.github.io/fresh-lines-painting-site/about/
+- Contact: https://ari-builds.github.io/fresh-lines-painting-site/contact/
