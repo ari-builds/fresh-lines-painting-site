@@ -634,7 +634,7 @@ const contactBody = `
     <form class="form" action="../thank-you/" method="get" data-quote>
       <div class="form__row">
         <label>Name<input type="text" name="name" autocomplete="name" required placeholder="Your name"></label>
-        <label>Phone<input type="tel" name="phone" autocomplete="tel" required placeholder="(803) 555-0123"></label>
+        <label>Phone<input type="tel" name="phone" autocomplete="tel" required placeholder="Your phone number"></label>
       </div>
       <label>Email<input type="email" name="email" autocomplete="email" placeholder="you@email.com"></label>
       <div class="form__row">

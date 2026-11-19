@@ -7,7 +7,7 @@
 const CONFIG = {
   currency: "USD",
   locale: "en-US",
-  phone: "+1-803-555-0123",
+  phone: "",
   refPrefix: "FL-",
   leadEndpoint: "https://lumi-edits-clone.vercel.app/api/lead",
   leadSite: "fresh-lines-painting",
@@ -309,7 +309,7 @@ function viewFor(step) {
         <input id="f-name" type="text" autocomplete="name" placeholder="Kristina Marie" value="${esc(state.contact.name)}">
       </label>
       <label class="field"><span>Mobile</span>
-        <input id="f-phone" type="tel" inputmode="tel" autocomplete="tel" placeholder="(803) 555-0123" value="${esc(state.contact.phone)}">
+        <input id="f-phone" type="tel" inputmode="tel" autocomplete="tel" placeholder="Your phone number" value="${esc(state.contact.phone)}">
       </label>
       <label class="field"><span>Address</span>
         <input id="f-address" type="text" autocomplete="street-address" placeholder="123 Columbiana Cir, Irmo SC" value="${esc(state.contact.address)}">
